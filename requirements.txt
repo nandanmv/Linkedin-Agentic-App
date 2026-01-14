@@ -1,0 +1,6 @@
+typer[all]
+notion-client
+openai
+python-dotenv
+rich
+pypdf
