@@ -37,9 +37,10 @@ An AI-powered content pipeline that automates the process of creating high-perfo
 
 3. **Configure Environment Variables**:
    Create a `.env` file based on `.env.example` and fill in your API keys and configuration:
-   - `NOTION_TOKEN`
+   - `NOTION_API_KEY`
    - `NOTION_DATABASE_ID`
    - `OPENAI_API_KEY` or `ANTHROPIC_API_KEY`
+
    - Agent model configurations (e.g., `RESONANCE_MODEL=gpt-4o`)
 
 ## 📖 Usage
