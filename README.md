@@ -1,6 +1,6 @@
 # 🤖 LinkedIn Agentic App
 
-An AI-powered content pipeline that automates the process of creating high-performance LinkedIn posts by learning from your past successes. This application integrates five specialized AI agents with Notion to evaluate ideas, generate content, and optimize drafts based on data-driven patterns.
+An AI-powered content pipeline that automates the process of identifying high-performance LinkedIn posts by learning from your past successes. This application integrates five specialized AI agents with Notion to evaluate ideas, generate content, and optimize drafts based on data-driven patterns.
 
 ## 🚀 Key Features
 
